@@ -63,11 +63,11 @@ RESNET152:
   
 Results
   
-  Running my program on the validation set with these parameters i achieved 0.6 accuracy or 60%
+  Running my program on the validation set with these parameters i achieved 0.6 accuracy or 60%.
   
-  BERT Accuracy : 0.524
-  ResNet152 Accuracy : 0.516
-  Fused Accuracy : 0.60
+ ### BERT Accuracy : 0.524
+ ### ResNet152 Accuracy : 0.516
+ ### Fused Accuracy : 0.60
   
   
 
